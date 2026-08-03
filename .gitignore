@@ -6,8 +6,12 @@ node_modules/
 # Expo
 .expo/
 dist/
+ios/
+android/
 web-build/
 expo-env.d.ts
+.env
+.DS_Store
 
 # Native
 .kotlin/
