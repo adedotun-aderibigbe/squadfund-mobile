@@ -26,6 +26,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png"
       }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b0f99677-8429-452b-bfc0-d01207d75e1b"
+      }
     }
   }
 }
