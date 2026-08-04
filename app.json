@@ -15,8 +15,11 @@
       "infoPlist": {
         "LSApplicationQueriesSchemes": [
           "venmo",
+          "cashapp",
+          "venmo",
           "cashapp"
-        ]
+        ],
+        "ITSAppUsesNonExemptEncryption": false
       },
       "supportsTablet": true,
       "bundleIdentifier": "com.squadfund.mobile"
