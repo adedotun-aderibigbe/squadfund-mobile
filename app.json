@@ -6,9 +6,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/splash-icon.png",
       "resizeMode": "contain"
     },
     "ios": {
@@ -22,10 +22,7 @@
       "bundleIdentifier": "com.squadfund.mobile"
     },
     "android": {
-      "package": "com.squadfund.mobile",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png"
-      }
+      "package": "com.squadfund.mobile"
     },
     "extra": {
       "eas": {
