@@ -11,8 +11,6 @@
       "infoPlist": {
         "LSApplicationQueriesSchemes": [
           "venmo",
-          "cashapp",
-          "venmo",
           "cashapp"
         ],
         "ITSAppUsesNonExemptEncryption": false
